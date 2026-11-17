@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1000" viewBox="0 0 1440 1000" fill="none">
+  <defs>
+    <radialGradient id="a" cx="0" cy="0" r="1" gradientTransform="matrix(0 240 -240 0 240 180)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF4058" stop-opacity=".2"/>
+      <stop offset="1" stop-color="#FF4058" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="b" cx="0" cy="0" r="1" gradientTransform="matrix(0 280 -280 0 1200 250)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF1F2" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#FFF1F2" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="c" cx="0" cy="0" r="1" gradientTransform="matrix(0 280 -280 0 710 930)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF4058" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#FF4058" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <circle cx="240" cy="180" r="240" fill="url(#a)"/>
+  <circle cx="1200" cy="250" r="280" fill="url(#b)"/>
+  <circle cx="710" cy="930" r="280" fill="url(#c)"/>
+  <g fill="#FFF7F8">
+    <circle cx="143" cy="397" r="1.5" opacity=".34"/>
+    <circle cx="377" cy="115" r="1" opacity=".48"/>
+    <circle cx="1114" cy="125" r="1.5" opacity=".34"/>
+    <circle cx="1290" cy="482" r="1" opacity=".46"/>
+    <circle cx="1061" cy="758" r="1.5" opacity=".25"/>
+    <circle cx="291" cy="833" r="1" opacity=".4"/>
+    <circle cx="775" cy="91" r="1" opacity=".32"/>
+  </g>
+</svg>
