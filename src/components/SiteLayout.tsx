@@ -118,6 +118,7 @@ export function SiteLayout() {
             <Link to="/about/">About</Link>
             <Link to="/resources/">Resources</Link>
             <Link to="/pricing/">Plans</Link>
+            <a href="https://trafficpeak.io" target="_blank" rel="noreferrer">Boost Your Website Traffic with TrafficPeak</a>
           </div>
         </footer>
       </div>
